@@ -13,6 +13,7 @@ npm i twink-parserjs
 
 - Come to github and clone this project and try it yourself
 https://github.com/Thanhtran34/Twink-Tokenizerjs
+https://github.com/Thanhtran34/twinkparser
 
 
 ## Getting Started
